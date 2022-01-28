@@ -63,3 +63,9 @@ typings/
 
 # next.js build output
 .next
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/python-build-cli-planner-app.iml
+/.idea/vagrant.xml
+/.idea/vcs.xml
